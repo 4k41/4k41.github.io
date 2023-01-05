@@ -19,9 +19,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: 4k41                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Cyber Security Enthusiast   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -30,10 +30,10 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://4k41.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: 4k41             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: 0x4k41            # change to your twitter username
 
 social:
   # Change to your full name.
